@@ -2,7 +2,7 @@
 
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
 ### Home Page
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
 
 ## Project Overview
 
@@ -63,16 +63,16 @@ This project offers actionable insights to optimize operations, enhance user exp
 # Dashboard Pages : 
 
 ## Home Page
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
 ### Quantity Filter Applied
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2_Qty_filter.jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_2_Qty_filter.jpg)
 
 ## User Performance Page
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_3.jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_3.jpg)
 ### Male Category Selected
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_3_Male.jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_3_Male.jpg)
 
 ## City wise Performance Page
-![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_4(City_Performance).jpg)
+![image](https://github.com/Manjusha-26/Food_Delivery_Dashboard/blob/1a090fdb085d011ff007eb45301769c82a77f86b/src/reports/Food_Analysis_Dashboard_Pg_4(City_Performance).jpg)
 
 
